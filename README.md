@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @li-mlk
+- 👋 Hi, I’m Liane @li-mlk
 - 👀 I’m interested in just keeping my stuff by now
 - 🌱 I’m currently learning ... crochet
 - 💞️ I’m looking to collaborate on ... some interesting side project
