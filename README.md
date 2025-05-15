@@ -1,8 +1,14 @@
 - 👋 Hi, I’m Liane @li-mlk
-- 👀 I’m interested in just keeping my stuff by now
-- 🌱 I’m currently learning ... crochet
-- 💞️ I’m looking to collaborate on ... some interesting side project
-- 📫 How to reach me ... instagram: @li_mlk reddit: u/li_mlk
+
+- 👩‍💻 Electrical engineer with 14+ years in software dev
+- 👀 focused on embedded systems using C++ & Qt.
+- 🐧 Linux lover, shell script enthusiast, and vim fan.
+
+- 💻 I value clean, reliable code and work-life balance.
+- 🌱 Also into 🧶 crochet, 🤹‍♀️ Rubik’s cubes, and 🎶 melodic/prog metal.
+
+- 💞️ Let’s build something cool together!
+- 📫 How to reach me ... instagram: @lianelubrigati reddit: u/li_mlk
 
 <!---
 li-mlk/li-mlk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
